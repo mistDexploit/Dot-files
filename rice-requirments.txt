@@ -1,0 +1,11 @@
+well you need wezterm or kitty , both are good , this rice is via kitty.
+
+sudo apt update && sudo apt install kitty && sudo apt install ranger
+
+sudo apt install rofi
+
+follow to videos of ricing_guide in order
+
+after it you need to install picom for transparency
+sudo apt install picom
+for terminal blur watch vidoe named picom in ricing_guide
