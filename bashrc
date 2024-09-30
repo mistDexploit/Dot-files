@@ -122,7 +122,7 @@ if [ -x /usr/bin/dircolors ]; then
 	alias ra=ranger
 	alias clear="printf '\033[2J\033[3J\033[1;1H'"
 	alias CC='echo "echo 3 > /proc/sys/vm/drop_caches"'
-	alias htop='htop -u m1std'
+	alias htop='htop -u $USER'
 
     export LESS_TERMCAP_mb=$'\E[1;31m'     # begin blink
     export LESS_TERMCAP_md=$'\E[1;36m'     # begin bold
